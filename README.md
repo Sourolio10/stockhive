@@ -11,3 +11,6 @@ Python | statsmodel.api | Streamlit
 
 We fetch stock data from the yahoo finance database using yfinance and pandas datareader libraries.
 
+## Website overview
+
+![alt text](https://github.com/Sourolio10/souradeep-portfolio.github.io/blob/main/src/assets/jobit.png)
